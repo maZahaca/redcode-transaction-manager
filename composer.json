@@ -7,7 +7,8 @@
     "authors": [
         {
             "name": "Andrew Reddikh",
-            "email": "mazahaco@gmail.com"
+            "email": "mazahaco@gmail.com",
+            "homepage": "https://github.com/maZahaca"
         }
     ],
     "require": {
