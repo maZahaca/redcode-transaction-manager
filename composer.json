@@ -1,0 +1,17 @@
+{
+    "name": "redcode/transaction-manager",
+    "autoload": { "psr-0": { "RedCode": "src/" } },
+    "description": "Transaction manager for easily payments",
+    "keywords": ["Transaction", "Payment", "Symfony"],
+    "homepage": "https://github.com/maZahaca/redcode-transaction-manager",
+    "authors": [
+        {
+            "name": "Andrew Reddikh",
+            "email": "mazahaco@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.4",
+        "symfony/symfony": "2.1.x-dev"
+    }
+}
